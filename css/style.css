@@ -1,0 +1,21 @@
+body{
+ background-color: #2AB3AB;
+}
+p {
+ font-size: 20px;
+ font-family: Helvetica;
+}
+
+#box {
+  color: white;
+  font-size: 25px;
+}
+
+.thick{
+  font-family: Arial, Helvetica, San-serif;
+}
+
+*{
+  color: #5B154F;
+  text-align: center;
+}
